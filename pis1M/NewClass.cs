@@ -8,6 +8,11 @@ namespace pis1M
     class NewClass
     {
         public void NewMethod()
-        {}
+        {
+             Console.WriteLine("Nova promjena by Ivana");
+        }
+        
     }
 }
+
+//dodan Console.WriteLine
