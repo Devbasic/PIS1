@@ -9,7 +9,9 @@ namespace pis1M
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            
+            Console.WriteLine("Hello Mia");
         }
     }
 }
+//Napravljena promjena kod hello world
