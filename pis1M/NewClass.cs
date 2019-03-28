@@ -7,5 +7,7 @@ namespace pis1M
 {
     class NewClass
     {
+        public void NewMethod()
+        {}
     }
 }
