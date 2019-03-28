@@ -9,5 +9,12 @@ namespace pis1M
     {
         public void method()
         { }
+        public void NewMethod()
+        {
+             Console.WriteLine("Nova promjena by Ivana");
+        }
+        
     }
 }
+
+//dodan Console.WriteLine
